@@ -1,0 +1,3 @@
+/Users/sarahkhaled/CLionProjects/VectorMathUtils/cmake-build-debug/CMakeFiles/VectorMathUtils.dir
+/Users/sarahkhaled/CLionProjects/VectorMathUtils/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sarahkhaled/CLionProjects/VectorMathUtils/cmake-build-debug/CMakeFiles/rebuild_cache.dir
